@@ -4,6 +4,8 @@
 
 This project demonstrates how to implement real-time audio transcription using the Google Speech-to-Text API. The application captures audio from the microphone, streams it to the Google Speech API, and prints the transcription live.
 
+loom - https://www.loom.com/share/0d879c20b8d14ff9bb1e0cfdd26995e6?sid=0071336e-7dff-4325-b854-9de10a0d0d14
+
 ## Prerequisites
 
 Before you can run this project, you need the following:
