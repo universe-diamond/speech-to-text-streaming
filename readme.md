@@ -23,8 +23,8 @@ Before you can run this project, you need the following:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ranmalmendis/Speech-to-Text-Streaming.git
+   cd Speech-to-Text-Streaming
    ```
 
 2. **Install Dependencies**
